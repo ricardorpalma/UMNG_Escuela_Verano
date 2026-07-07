@@ -41,7 +41,7 @@ Escuela de Verano Industria 4.0
     * Gemelos y Sombras Digitales Digitales <https://arxiv.org/abs/2506.12102> 
 * Los think tanks
     * Real Instituto El Cano
-    * CEPAL (Los términos de Intercambio)
+    * CEPAL (Los términos de Intercambio) <https://www.youtube.com/watch?v=sqUQQX1dTx8&t=40s>
     * https://www.clingendael.org/
     * LEAP WEAP https://www.sei.org/
 * El método de los escenarios de Herman Kahn
