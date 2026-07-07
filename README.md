@@ -17,12 +17,17 @@ Escuela de Verano Industria 4.0
 
 ## Parte 2 El fin de la globalización
 
-* Evolución del protocolo de Kioto
+* Evolución del protocolo de Kioto <https://zenodo.org/records/17262615>
+* Trabajo de Investigación Industria 4.0 - Ciencia Reproducible Di3 <https://rpubs.com/ricardorpalma/1351475>
 * Out shoring, Near Shoring, Friend Shoring
 * Los modelos políticos de desarrollo (¿El fin de las democracias occidentales?)
 * Producción de materiales y comunicación para la Innovación
-* Entorno IDE para producción de contenidos <>
+* Entorno IDE para producción de contenidos <https://posit.cloud/>
 * Lecaturas <https://arxiv.org/abs/2506.12102>
+* La hora de los depredadores
+* El golpe de Estado de los tecnoautoritarios: de la América postdemocrática a la Europa que viene
+* Si no actuamos ya, imperios digitales en la sombra dictarán nuestras leyes
+* 
   
 ## Parte 3 Costrucción de escenarios
 
@@ -41,6 +46,8 @@ Escuela de Verano Industria 4.0
  
 ## Parte 4  Árboles de escenarios
 
+
+* Uso de Intelegencia artificial para construir el escenario de Industria 4.0 <>
 * Métod de Escenarios Montarcalo 2D (Estilo Herman Kahn)
 * Arboles.rmd
 * La Innovación en la región <https://ricardorpalma.github.io/AD_II_UMNG/redes-neuronales-artificiales.html>
