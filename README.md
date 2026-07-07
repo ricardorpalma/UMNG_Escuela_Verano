@@ -13,6 +13,7 @@ Escuela de Verano Industria 4.0
 * Uso de Herrmientas para nótas atómicas
 * Ascenso y Caída de las poténcias Hegemónicas
 * Las fuentes de energía de las revoluciones industriales
+* El mundo que cambió en Diciembre de 2025
 
 ## Parte 2 El fin de la globalización
 
@@ -31,13 +32,18 @@ Escuela de Verano Industria 4.0
     * LEAP WEAP https://www.sei.org/
 * El método de los escenarios de Herman Kahn
     * <https://themys.sid.uncu.edu.ar/rpalma/MBA/Simuladores/Escenarios/Autralia-Beer.html>
+    * Da Empoli Bria y las nuevas Megatrends
  
 ## Parte 4  Árboles de escenarios
 
-Métod de Escenarios Montarcalo 2D (Estilo Herman Kahn)
-Arboles.rmd
-
+* Métod de Escenarios Montarcalo 2D (Estilo Herman Kahn)
+* Arboles.rmd
+* La Innovación en la región <https://ricardorpalma.github.io/AD_II_UMNG/redes-neuronales-artificiales.html>
+* Red Node y el protocolo mqtt
+* 
 ## Parte 5 La Policrisis
+
+
 
 *Escanarios posibles para la región.
     * Motores de Desarrollo de Argentina
