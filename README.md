@@ -28,4 +28,21 @@ Escuela de Verano Industria 4.0
     * Real Instituto El Cano
     * CEPAL (Los términos de Intercambio)
     * https://www.clingendael.org/
-    *  
+    * LEAP WEAP https://www.sei.org/
+* El método de los escenarios de Herman Kahn
+    * <https://themys.sid.uncu.edu.ar/rpalma/MBA/Simuladores/Escenarios/Autralia-Beer.html>
+ 
+## Parte 4  Árboles de escenarios
+
+Métod de Escenarios Montarcalo 2D (Estilo Herman Kahn)
+Arboles.rmd
+
+## Parte 5 La Policrisis
+
+*Escanarios posibles para la región.
+    * Motores de Desarrollo de Argentina
+    * Motores para Mexico
+    * Motores para Brasil
+    * Motores para Colombia
+    * Motores para Chile
+* Guia para la evaluación Final
