@@ -47,7 +47,7 @@ Escuela de Verano Industria 4.0
     * LEAP WEAP https://www.sei.org/
 * El método de los escenarios de Herman Kahn
     * <https://themys.sid.uncu.edu.ar/rpalma/MBA/Simuladores/Escenarios/Autralia-Beer.html>
-    * Da Empoli Bria y las nuevas Megatrends
+    
  
 ## Parte 4  Árboles de escenarios
 
