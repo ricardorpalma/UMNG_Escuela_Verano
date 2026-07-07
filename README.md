@@ -23,7 +23,7 @@ Escuela de Verano Industria 4.0
 * Los modelos políticos de desarrollo (¿El fin de las democracias occidentales?)
 * Producción de materiales y comunicación para la Innovación
 * Entorno IDE para producción de contenidos <https://posit.cloud/>
-* Lecaturas <https://arxiv.org/abs/2506.12102>
+
 
 ### Propuestas para inspirar el trabajo de evaluación
 
