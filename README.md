@@ -28,9 +28,10 @@ Escuela de Verano Industria 4.0
 ### Propuestas para inspirar el trabajo de evaluación
 
 * Revista de prensa <https://github.com/ricardorpalma/UMNG_Escuela_Verano/blob/main/Prensa.md>
-      * La hora de los depredadores
-      * El golpe de Estado de los tecnoautoritarios: de la América postdemocrática a la Europa que viene
-      * Si no actuamos ya, imperios digitales en la sombra dictarán nuestras leyes
+
+     * La hora de los depredadores
+     * El golpe de Estado de los tecnoautoritarios: de la América postdemocrática a la Europa que viene
+     * Si no actuamos ya, imperios digitales en la sombra dictarán nuestras leyes
   
   
 ## Parte 3 Costrucción de escenarios
