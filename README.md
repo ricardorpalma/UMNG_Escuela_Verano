@@ -24,10 +24,14 @@ Escuela de Verano Industria 4.0
 * Producción de materiales y comunicación para la Innovación
 * Entorno IDE para producción de contenidos <https://posit.cloud/>
 * Lecaturas <https://arxiv.org/abs/2506.12102>
-* La hora de los depredadores
-* El golpe de Estado de los tecnoautoritarios: de la América postdemocrática a la Europa que viene
-* Si no actuamos ya, imperios digitales en la sombra dictarán nuestras leyes
-* 
+
+### Propuestas para inspirar el trabajo de evaluación
+
+* Revista de prensa <https://github.com/ricardorpalma/UMNG_Escuela_Verano/blob/main/Prensa.md>
+      * La hora de los depredadores
+      * El golpe de Estado de los tecnoautoritarios: de la América postdemocrática a la Europa que viene
+      * Si no actuamos ya, imperios digitales en la sombra dictarán nuestras leyes
+  
   
 ## Parte 3 Costrucción de escenarios
 
@@ -55,7 +59,9 @@ Escuela de Verano Industria 4.0
 * 
 ## Parte 5 La Policrisis
 
+Si tu trabajo (individual o con dos coautores) califica como uno de los mejores del curso te ofrezco publicarlo como capítulo de un libro con un DOI individual para cada trabajo es ISBN. Como verán en el prólogo este proyecto nuclea a muchos ingenieros de Latinoamérica, Caribe y Europa.
 
+El proyecto del libro está en desarrollo y puedes consultarlo en <https://ricardorpalma.github.io/Marca_2026/>
 
 *Escanarios posibles para la región.
     * Motores de Desarrollo de Argentina
