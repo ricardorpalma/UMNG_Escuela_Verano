@@ -21,10 +21,15 @@ Escuela de Verano Industria 4.0
 * Out shoring, Near Shoring, Friend Shoring
 * Los modelos políticos de desarrollo (¿El fin de las democracias occidentales?)
 * Producción de materiales y comunicación para la Innovación
-* Entorno IDE para producción de contenidos
+* Entorno IDE para producción de contenidos <>
+* Lecaturas <https://arxiv.org/abs/2506.12102>
   
 ## Parte 3 Costrucción de escenarios
 
+* Tecnologías Emergentes
+    * Portocolo mqtt (mosquito)
+    * Zero Coding Programing <https://nodered.org/>
+    * Gemelos y Sombras Digitales Digitales <https://arxiv.org/abs/2506.12102> 
 * Los think tanks
     * Real Instituto El Cano
     * CEPAL (Los términos de Intercambio)
