@@ -1,2 +1,2 @@
-# El mundo que camión en Diciembre de 2025
+# El mundo que camió en Diciembre de 2025
 
