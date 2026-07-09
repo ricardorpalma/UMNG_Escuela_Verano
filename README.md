@@ -3,9 +3,10 @@ Escuela de Verano Industria 4.0
 
 # Industria 4.0 y oportunidades para Latinoamérica
 
-| Conferencista     |    Materiales    |
-|-------------------|------------------|
-| Ricardo Raúl Palma| ![Link](Git_Hub.png)|
+| Conferencista                                                |    Materiales    |
+|--------------------------------------------------------------|------------------|
+| Ricardo Raúl Palma                                           | ![Link](Git_Hub.png)|
+| Universidad Nacional de Cuyo                                 |                   |
 
 ## Objetivos
 
