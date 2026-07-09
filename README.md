@@ -17,7 +17,7 @@ Escuela de Verano Industria 4.0
 * Uso de Herrmientas para nótas atómicas
 * Ascenso y Caída de las poténcias Hegemónicas
 * Las fuentes de energía de las revoluciones industriales
-* El mundo que cambió en Diciembre de 2025 
+* El mundo que cambió en Diciembre de 2025  <https://github.com/ricardorpalma/UMNG_Escuela_Verano/tree/main/Obsidian/Policrisis>
 
 ## Parte 2 El fin de la globalización
 
