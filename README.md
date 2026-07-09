@@ -13,11 +13,11 @@ Escuela de Verano Industria 4.0
 ## Parte 1 Revoluciones Industriales
 
 * Revisión Histórica (Ciclos Kondratieff) <https://ricardorpalma.github.io/Kondratieff/#/title-slide>
-* Industria 4.0 -  Papers fundacionales
+* Industria 4.0 -  Papers fundacionales <https://github.com/ricardorpalma/UMNG_Escuela_Verano/blob/main/Papers/fundacional_actual.pdf>
 * Uso de Herrmientas para nótas atómicas
 * Ascenso y Caída de las poténcias Hegemónicas
 * Las fuentes de energía de las revoluciones industriales
-* El mundo que cambió en Diciembre de 2025
+* El mundo que cambió en Diciembre de 2025 
 
 ## Parte 2 El fin de la globalización
 
