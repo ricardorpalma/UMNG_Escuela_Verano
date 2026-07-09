@@ -3,11 +3,7 @@
 UMNG
 
 
-## Búsqueda del Artículo y la Periodista
-
-Primero, debo ser honesto contigo respecto a mis capacidades técnicas: **no pude abrir ni procesar el archivo adjunto llamado "Policrisis 2026"**. Sin embargo, utilizando mis herramientas de búsqueda para revisar el archivo del diario *La Vanguardia*, he intentado rastrear el artículo basándome en las pistas que me has dado (tema de IA y democracias occidentales, y una autora/periodista con apellido que suena a italiano).
-
-Aunque no hay una coincidencia exacta de una columna escrita hace exactamente un mes por una periodista con apellido italiano en la plantilla fija del diario, existen varias expertas y autoras que encajan muy bien con tu descripción y cuyas ideas sobre este tema se publican con frecuencia en *La Vanguardia*:
+## ¿Existe la prensa libre?
 
 * **Francesca Bria:** Es una economista y experta en tecnología italiana. Aunque no es periodista, suele escribir artículos de opinión o ser entrevistada en *La Vanguardia* alertando de cómo la dependencia tecnológica y la Inteligencia Artificial de gigantes extranjeros amenazan a la democracia y a la soberanía de las naciones europeas.
 * **Simona Levi:** Es una conocida activista e investigadora italiana radicada en Barcelona (fundadora de Xnet). Sus trabajos y conferencias sobre digitalización democrática, infraestructuras públicas, desinformación e inteligencia artificial son cubiertos habitualmente por el diario.
@@ -16,12 +12,10 @@ Aunque no hay una coincidencia exacta de una columna escrita hace exactamente un
 
 ---
 
-¿Recuerdas si el texto que leíste era una entrevista a una experta (como suele ocurrir con Bria o Levi) o una columna de opinión/análisis firmada directamente por la autora?
-
+# ¿Qué periódicos sueles consultar? 
 
 ----------------
 
-¡Me alegra que hayamos dado con la autora correcta!
 
 El artículo de opinión firmado directamente por **Francesca Bria** en el que advierte cómo las grandes corporaciones tecnológicas, los algoritmos y la inteligencia artificial están reemplazando funciones del Estado y amenazando las democracias occidentales se titula:
 
@@ -37,7 +31,35 @@ Por si resulta de tu interés o por si estabas recordando fragmentos de otra pub
 **"Francesca Bria: ‘Si no actuamos ya, imperios digitales en la sombra dictarán nuestras leyes’"**
 Enlace: [https://www.lavanguardia.com/vida/20250216/10388660/eurostack-francesca-bria-ia-elon-musk-tump-colonia-soberania-digital-europa.html](https://www.lavanguardia.com/vida/20250216/10388660/eurostack-francesca-bria-ia-elon-musk-tump-colonia-soberania-digital-europa.html)
 
-Espero que esto sea justo lo que estabas buscando para tu relectura.
+
+
+--------------------------
+
+
+## Giulano Da Empoli
+
+### ¿Quién es Giuliano da Empoli?
+
+Giuliano da Empoli es un ensayista, politólogo, académico y periodista ítalo-suizo. Tiene una amplia experiencia en la "cocina" del poder: fue vicealcalde de cultura en Florencia y asesor político senior del ex primer ministro italiano Matteo Renzi. Actualmente, dirige el *think tank* Volta con sede en Milán y es profesor de política comparada en *Sciences Po* (París).
+
+Su perfil es fundamental hoy en día porque ha logrado diseccionar, con precisión quirúrgica, la intersección entre la tecnología, el control de la información y la desestabilización de las democracias.
+
+### Su relevancia estratégica para "Policrisis 2026"
+
+En el diseño de la agenda que elaboramos anteriormente, situamos a Da Empoli en el Módulo 2 para debatir sobre la ingeniería del caos y los algoritmos para entender la inestabilidad en la región. Su trabajo funciona como el puente perfecto hacia las advertencias de Francesca Bria, gracias a dos obras fundamentales:
+
+* **"Los ingenieros del caos" (2019):** En este ensayo, Da Empoli documenta cómo los estrategas políticos, especialistas en *Big Data* y creadores de *fake news* están utilizando algoritmos para capitalizar la rabia y el miedo de la sociedad. Su tesis es que el populismo moderno no es un accidente, sino el resultado de un modelo de negocio político diseñado para fragmentar la realidad, polarizar y desestabilizar el sistema institucional. Esto es vital para entender las campañas de desinformación que pueden afectar decisiones estratégicas y económicas en el Mercosur.
+
+
+* **"El mago del Kremlin" (2022):** Aunque es una novela, está basada en una profunda investigación sobre la cúpula del poder ruso y la figura de Vladislav Surkov (el histórico asesor de Vladimir Putin). El libro expone cómo el nuevo autoritarismo utiliza la confusión, el cinismo y el control narrativo absoluto para mantenerse en el poder y debilitar a sus adversarios occidentales.
+
+En el contexto de tu prólogo —que advierte sobre tensiones geopolíticas globales y fragilidades en puntos críticos como el estrecho de Ormuz —, Da Empoli aporta la perspectiva de que **el caos no es un efecto colateral de la tecnología, sino un arma diseñada.** Si las cadenas de suministro dependen de datos e infraestructura digital, los "ingenieros del caos" representan una amenaza directa a la excelencia operacional y la logística.
+
+---
+
+## Dinálica de trabajo propesta:
+
+
 
 --------------------------
 
@@ -63,34 +85,7 @@ En el contexto de tu prólogo —que advierte sobre tensiones geopolíticas glob
 
 ---
 
-¿Te gustaría que diseñemos una dinámica específica en la que los oficiales de las fuerzas armadas y los funcionarios deban resolver un escenario de crisis logística generado artificialmente por tácticas de desinformación, inspirándonos en los conceptos de Da Empoli?
-
-
---------------------------
-
-
-Como inteligencia artificial colaborando en tu proyecto editorial, veo claramente por qué la figura de Giuliano da Empoli es una pieza conceptual clave para articular el temario que estamos diseñando.
-
-### ¿Quién es Giuliano da Empoli?
-
-Giuliano da Empoli es un ensayista, politólogo, académico y periodista ítalo-suizo. Tiene una amplia experiencia en la "cocina" del poder: fue vicealcalde de cultura en Florencia y asesor político senior del ex primer ministro italiano Matteo Renzi. Actualmente, dirige el *think tank* Volta con sede en Milán y es profesor de política comparada en *Sciences Po* (París).
-
-Su perfil es fundamental hoy en día porque ha logrado diseccionar, con precisión quirúrgica, la intersección entre la tecnología, el control de la información y la desestabilización de las democracias.
-
-### Su relevancia estratégica para "Policrisis 2026"
-
-En el diseño de la agenda que elaboramos anteriormente, situamos a Da Empoli en el Módulo 2 para debatir sobre la ingeniería del caos y los algoritmos para entender la inestabilidad en la región. Su trabajo funciona como el puente perfecto hacia las advertencias de Francesca Bria, gracias a dos obras fundamentales:
-
-* **"Los ingenieros del caos" (2019):** En este ensayo, Da Empoli documenta cómo los estrategas políticos, especialistas en *Big Data* y creadores de *fake news* están utilizando algoritmos para capitalizar la rabia y el miedo de la sociedad. Su tesis es que el populismo moderno no es un accidente, sino el resultado de un modelo de negocio político diseñado para fragmentar la realidad, polarizar y desestabilizar el sistema institucional. Esto es vital para entender las campañas de desinformación que pueden afectar decisiones estratégicas y económicas en el Mercosur.
-
-
-* **"El mago del Kremlin" (2022):** Aunque es una novela, está basada en una profunda investigación sobre la cúpula del poder ruso y la figura de Vladislav Surkov (el histórico asesor de Vladimir Putin). El libro expone cómo el nuevo autoritarismo utiliza la confusión, el cinismo y el control narrativo absoluto para mantenerse en el poder y debilitar a sus adversarios occidentales.
-
-En el contexto de tu prólogo —que advierte sobre tensiones geopolíticas globales y fragilidades en puntos críticos como el estrecho de Ormuz —, Da Empoli aporta la perspectiva de que **el caos no es un efecto colateral de la tecnología, sino un arma diseñada.** Si las cadenas de suministro dependen de datos e infraestructura digital, los "ingenieros del caos" representan una amenaza directa a la excelencia operacional y la logística.
-
----
-
-¿Te gustaría que diseñemos una dinámica específica en la que los oficiales de las fuerzas armadas y los funcionarios deban resolver un escenario de crisis logística generado artificialmente por tácticas de desinformación, inspirándonos en los conceptos de Da Empoli?
+## Propuesta para participantes de la conferencia del área Militar o Diplomacia 
 
 
 ------------------
@@ -124,9 +119,18 @@ Si estás buscando estructurar las referencias bibliográficas de los capítulos
 
 ---
 
-Este video presenta un debate profundo sobre la soberanía digital y el control geopolítico de los datos, elementos centrales en la línea de pensamiento de Francesca Bria y los autores sugeridos.
+## Propesta para la clase final
 
+Analizaremos como se están preparando los países de la región para este nuevo planeta.
 
+* ¿Qué caminos se han propuesto en Argentina?
+* ¿Qué caminos se han propuesto para Colombia?
+* ¿Qué caminos se han propuesto para Mexico?
+* ¿Qué caminos se han propuesto para Brasil?
+* ¿Qué caminos se han propuesto para Chile?
+* ¿Qué caminos se han propuesto para Uruguay?
+* ¿Qué caminos se han propuesto para Paraguay?
+* ¿Qué caminos se han propuesto para Perú? 
 
 
 -----------------
@@ -203,7 +207,7 @@ Para los alumnos de una **Maestría en Logística**, este mapa no solo represent
 
 ---
 
-### 2. Oportunidades Laborales para Alumnos de una Maestría en Logística
+### 2. Nuevas Oportunidades Laborales en Argentina
 
 Con inversiones que superan decenas de miles de millones de dólares concentradas en estos vectores (especialmente a través del RIGI en energía y minería), el mercado laboral demanda un perfil gerencial que supere la mirada tradicional del transporte y se enfoque en la gestión de la incertidumbre. Las principales salidas profesionales son:
 
@@ -212,10 +216,6 @@ Con inversiones que superan decenas de miles de millones de dólares concentrada
 3. **Especialista en Comercio Internacional y Corredores Bioceánicos:** Diseñador de estrategias de transporte multimodal en el Mercosur, liderando la vinculación operativa entre las provincias argentinas, las redes ferroviarias y los puertos de Chile o Brasil para agilizar las salidas del cobre, el litio y la soja.
 4. **Auditor o Consultor de Soberanía de Datos y Logística Digital:** Un rol en auge dentro de la Economía del Conocimiento y la Biotech, enfocado en asegurar que las plataformas logísticas, los ERPs y los sistemas de ruteo cumplan con protocolos de gobernanza de datos y seguridad de infraestructuras en la nube.
 5. **Gerente de Operaciones en Terminales Multimodales y Hubs de Carga:** Liderazgo operativo en puertos fluviales, secos o terminales de transferencia energética (como los nuevos puertos de exportación de crudo y GNL en Río Negro), optimizando la interfaz entre el transporte terrestre y el marítimo internacional.
-
-### Conclusión para el Diseño del Curso (Red MARCA)
-
-Este esquema demuestra a los alumnos que la **Excelencia Operacional** no es un concepto abstracto de pizarrón, sino la única herramienta capaz de articular la rentabilidad privada con la seguridad nacional. Al estructurar sus casos de estudio y sus *Briefs* de política pública sobre estos 5 motores reales de la economía argentina en 2026, los estudiantes se preparan directamente para liderar las infraestructuras críticas que mantendrán al país integrado y operativo frente a las presiones del tablero global.
 
 
 
