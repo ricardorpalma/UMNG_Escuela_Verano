@@ -5,8 +5,7 @@ Escuela de Verano Industria 4.0
 
 | Conferencista                                                |    Materiales    |
 |--------------------------------------------------------------|------------------|
-| Ricardo Raúl Palma                                           | ![Link](Git_Hub.png)|
-| Universidad Nacional de Cuyo                                 |                   |
+| Ricardo Raúl Palma   <p>     Universidad Nacional de Cuyo                                    | ![Link](Git_Hub.png)|
 
 ## Objetivos
 
