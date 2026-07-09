@@ -12,7 +12,7 @@ Escuela de Verano Industria 4.0
 
 ## Parte 1 Revoluciones Industriales
 
-* Revisión Histórica (Ciclos Kondratieff)
+* Revisión Histórica (Ciclos Kondratieff) <https://ricardorpalma.github.io/Kondratieff/#/title-slide>
 * Industria 4.0 -  Papers fundacionales
 * Uso de Herrmientas para nótas atómicas
 * Ascenso y Caída de las poténcias Hegemónicas
