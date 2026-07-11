@@ -69,9 +69,11 @@ Si tu trabajo (individual o con dos coautores) califica como uno de los mejores 
 El proyecto del libro está en desarrollo y puedes consultarlo en <https://ricardorpalma.github.io/Marca_2026/>
 
 *Escanarios posibles para la región.
+
     * Motores de Desarrollo de Argentina
     * Motores para Mexico
     * Motores para Brasil
     * Motores para Colombia
     * Motores para Chile
+
 * Guia para la evaluación Final
