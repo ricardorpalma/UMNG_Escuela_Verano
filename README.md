@@ -60,7 +60,7 @@ Escuela de Verano Industria 4.0
 * Métod de Escenarios Montarcalo 2D (Estilo Herman Kahn)
 * Arboles.rmd
 * La Innovación en la región <https://ricardorpalma.github.io/AD_II_UMNG/redes-neuronales-artificiales.html>
-* Red Node y el protocolo mqtt
+* ~~Red Node y el protocolo mqtt~~
 * 
 ## Parte 5 La Policrisis
 
