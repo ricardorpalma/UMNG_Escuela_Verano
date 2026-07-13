@@ -9,17 +9,17 @@ Escuela de Verano Industria 4.0
 
 ## Objetivos
 
-1. **Comprender el contexto histórico y estructural de la Industria 4.0**
+1. 🏭 **Comprender el contexto histórico y estructural de la Industria 4.0**
 Analizar las revoluciones industriales previas (usando los ciclos de Kondratieff como marco), el ascenso y caída de potencias hegemónicas, y las fuentes energéticas que impulsaron cada revolución, para situar a la Industria 4.0 dentro de un proceso histórico más amplio y no como un fenómeno aislado.
 
-2. **Analizar el reordenamiento geopolítico y económico global y su impacto en la región**
+2. 🌐 **Analizar el reordenamiento geopolítico y económico global y su impacto en la región**
 Utilizaremos para esta trabajo algunas herrameintas simple que tienen soporte en la IA Generativa para ayudarnos en la tarea
 Estudiar el fin de la globalización tal como se conocía,    incluyendo fenómenos como el offshoring, nearshoring y friendshoring, los cambios en los modelos políticos de desarrollo, y cómo estas transformaciones —incluida la llamada "policrisis"— afectan las oportunidades productivas de América Latina.
 
-3. **Desarrollar capacidades de construcción y análisis de escenarios prospectivos**
+3. 📊 **Desarrollar capacidades de construcción y análisis de escenarios prospectivos**
 Aplicar metodologías como el método de escenarios de Herman Kahn y simulaciones tipo Montecarlo 2D, apoyándose en tecnologías emergentes (IoT/MQTT, programación sin código, gemelos digitales) para construir árboles de escenarios futuros aplicados a la industria regional.
 
-4. **Formular propuestas concretas de desarrollo para países latinoamericanos y ponerlas en agenda**
+4. 🧭 **Formular propuestas concretas de desarrollo para países latinoamericanos y ponerlas en agenda**
 Identificar y proponer "motores de desarrollo" específicos para países como Argentina, México, Brasil, Colombia y Chile, integrando el análisis histórico, geopolítico y prospectivo en un trabajo de evaluación final con potencial de publicación como capítulo de libro con ISBN/DOI.
 
 # Contenidos y Materiales
