@@ -5,7 +5,7 @@ Escuela de Verano Industria 4.0
 
 | Conferencista                                                |    Materiales    |
 |--------------------------------------------------------------|------------------|
-| **Ricardo Raúl Palma**   <p>     Universidad Nacional de Cuyo <p> <ricardo.palma@ingenieria.uncuyo.edu.ar>                                   | ![Link](Git_Hub.png)|
+| **Ricardo Raúl Palma**   <p>     Universidad Nacional de Cuyo <p> <ricardo.palma@ingenieria.uncuyo.edu.ar>                                   | ![Link](Git_Hub.png) <p>https://github.com/ricardorpalma/UMNG_Escuela_Verano|
 
 ## Objetivos
 
