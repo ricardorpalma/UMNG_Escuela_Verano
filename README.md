@@ -97,3 +97,5 @@ El proyecto del libro está en desarrollo y puedes consultarlo en <https://ricar
 *[Publicación en Curso - POLICRISIS](https://github.com/ricardorpalma/Policrisis_2026)
 
 *[Analítica de Datos Industriales](https://github.com/ricardorpalma/AD_II_UMNG)
+
+*[Nuevos reisgos para las cadenas de suministros de LATAM](https://www.infobae.com/movant/2026/07/11/la-cepal-identifica-nuevos-riesgos-para-las-cadenas-de-suministro-en-america-latina/)
