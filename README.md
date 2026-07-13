@@ -39,7 +39,7 @@ Identificar y proponer "motores de desarrollo" específicos para países como Ar
 
 * Evolución del protocolo de Kioto <https://zenodo.org/records/17262615>
 * Trabajo de Investigación Industria 4.0 - Ciencia Reproducible Di3 <https://rpubs.com/ricardorpalma/1351475>
-* Out shoring, Near Shoring, Friend Shoring
+* Out shoring, Near Shoring, Friend Shoring <https://www.cepal.org/es/publicaciones/90189-impactos-america-latina-caribe-hostilidades-recientes-la-republica-islamica-iran>
 * Los modelos políticos de desarrollo (¿El fin de las democracias occidentales?)
 * Producción de materiales y comunicación para la Innovación
 * Entorno IDE para producción de contenidos <https://posit.cloud/>
