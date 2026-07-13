@@ -9,6 +9,8 @@ Escuela de Verano Industria 4.0
 
 ## Objetivos
 
+0. Escribe aquí tus objetivos sobre el curso
+
 1. 🏭 **Comprender el contexto histórico y estructural de la Industria 4.0**
 Analizar las revoluciones industriales previas (usando los ciclos de Kondratieff como marco), el ascenso y caída de potencias hegemónicas, y las fuentes energéticas que impulsaron cada revolución, para situar a la Industria 4.0 dentro de un proceso histórico más amplio y no como un fenómeno aislado.
 
@@ -90,4 +92,8 @@ El proyecto del libro está en desarrollo y puedes consultarlo en <https://ricar
     * Motores para Colombia
     * Motores para Chile
 
-* Guia para la evaluación Final
+* Destino de los trabajos finales, métodos y materiales complementarios
+
+*[Publicación en Curso - POLICRISIS](https://github.com/ricardorpalma/Policrisis_2026)
+
+*[Analítica de Datos Industriales](https://github.com/ricardorpalma/AD_II_UMNG)
